@@ -20,7 +20,7 @@
 
 ----
 
-![Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/preview.jpg)  
+![Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/16x9_preview.jpg)  
 [Download 1920x1080](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/1920x1080.jpg), [Download 16:9](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/16x9.jpg).
 
 ----
