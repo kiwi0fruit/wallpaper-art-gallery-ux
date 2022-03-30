@@ -20,5 +20,5 @@
 
 ----
 
-![Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20_preview)  
+![Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20_preview.jpg)  
 [Download 1080x2400](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__1080x2400.jpg), [Download 9x20](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20.jpg), [Download none-9:20 23MB image](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__23MB.jpg).
