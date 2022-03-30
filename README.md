@@ -27,3 +27,8 @@
 
 ![Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20_preview.jpg)  
 [Download 1080x2400](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__1080x2400.jpg), [Download 9x20](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20.jpg), [Download none-9:20 23MB image](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__23MB.jpg).
+
+----
+
+![Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/9x20_preview.jpg)  
+[Download 1080x2400](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/1080x2400.jpg), [Download 9:20](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/9x20.jpg), [Download 1080x2400 with top black stripe (for slideshow)](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/1080x2400_slideshow.jpg).
