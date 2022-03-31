@@ -13,7 +13,7 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
 скачать есть в альбоме Wallpaper Art Gallery моего профиля VK.
 
 ![Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__preview.jpg)  
-[Download 1920x1080](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__1920x1080.jpg), [Download none-16:9 23MB image](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__23MB.jpg).
+[Download 1920x1080](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__1920x1080.jpg), [Download 3840x2160](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__3840x2160.jpg), [Download none-16:9 23MB image](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__23MB.jpg).
 
 ----
 
