@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Cerebro
+Exec=/usr/bin/xdotool key ctrl+space
+Encoding=UTF-8
+Type=Application
+Icon=nm-tech-gprs
+StartupWMClass=xdotool
+Name=Cerebro
