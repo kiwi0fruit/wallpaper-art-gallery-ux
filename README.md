@@ -1,5 +1,7 @@
 # Wallpaper art gallery UX
 
+How to set user experience, examples of to-wallpaper conversion.
+
 *[Autotranslated english version](https://github-com.translate.goog/kiwi0fruit/wallpaper-art-gallery-ux/blob/main/README.md?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)*.
 
 Ниже представлена инструкция как организовать на рабочих столах ПК, и опционально смартфона, просмотр любимых картин и художественных фотографий. Сначала представлены примеры обоев из картин и художественных фотографий. После них дана инструкция.
