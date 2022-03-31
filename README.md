@@ -82,3 +82,5 @@ How to set user experience, examples of to-wallpaper conversion.
 типа [этого](http://apps.samsung.com/theme/ProductDetail.as?appId=com.themeplicity.purplewinter.appiconpack)
 или изменением значков с помощью [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) ([вот этот значок](./images/search.png) может быть полезен - создавать ярлык нужно в режиме виджета).
 Я пока не знаю как в Ubuntu организовать запуск поиска с рабочего стола и одновременно пустой рабочий стол.
+
+**И да, организация пользовательского опыта как в 3.5) будет слегка менее оптимальной, нежели привычная. Но красота требует жертв и лично я готов их принести.**
