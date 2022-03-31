@@ -1,6 +1,6 @@
 # Wallpaper art gallery UX
 
-How to set user experience, examples of to-wallpaper conversion.
+How to set user experience to enjoy the favourite art on the desktop. Examples of art to wallpaper conversion.
 
 *[Autotranslated english version](https://github-com.translate.goog/kiwi0fruit/wallpaper-art-gallery-ux/blob/main/README.md?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)*.
 
