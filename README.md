@@ -89,6 +89,12 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
   sudo find /usr/share/icons/Yaru/ -name "emblem-symbolic-link.png" \
   -exec cp -v {} {}.bak \; \
   -exec convert {} -set colorspace Gray -separate -average {} \;
+  ```  
+  Обратно:
+  ```bash
+  sudo find /usr/share/icons/Yaru/ -name "emblem-symbolic-link.png.bak" -exec sh -c 'cp -v {} $(dirname {})/$(basename -s.bak {})' \;
+  ## worst case, reinstall icons
+  sudo apt --reinstall install yaru-theme-icon
   ```
 * В **Android** все так же, только проще - достаточно поместить виджет строки поиска вверху рабочего стола (вверху опять же обычно будет расширенная размытая часть картины).
 Если совсем озаботиться, то можно поместить ярлык запуска окна поиска прямо на панель избранного (например, [Simple Search](https://f-droid.org/en/packages/de.tobiasbielefeld.searchbar/)). Цвет значков на панели избранного можно изменить установкой набора значков типа [этого](http://apps.samsung.com/theme/ProductDetail.as?appId=com.themeplicity.purplewinter.appiconpack)
