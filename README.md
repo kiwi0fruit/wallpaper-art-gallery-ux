@@ -88,7 +88,7 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
   sudo apt install imagemagick
   sudo find /usr/share/icons/Yaru/ -name "emblem-symbolic-link.png" \
   -exec cp -v {} {}.bak \; \
-  -exec convert {} -set colorspace Gray -separate -average {} \;
+  -exec convert {} -colorspace gray {} \;
   ```  
   Обратно:
   ```bash
