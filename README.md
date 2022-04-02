@@ -32,11 +32,6 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
 
 ----
 
-![Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/16x9_preview.jpg)  
-[Download 1920x1080](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/1920x1080.jpg), [Download 16:9](./Paul_Fiedler_-_Garmisch-Partenkirchen_Germany__K81NdfnAdQI_Unsplash/16x9.jpg).
-
-----
-
 ![Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20_preview.jpg)  
 [Download 1080x2400](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__1080x2400.jpg), [Download 9x20](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__9x20.jpg), [Download none-9:20 23MB image](./images/Claude_Monet_-_Woman_with_a_Parasol_-_Google_Art_Project__color_edited__23MB.jpg).
 
