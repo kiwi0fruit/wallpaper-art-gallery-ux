@@ -84,7 +84,8 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
   sudo find /usr/share/icons/Yaru/ -name "emblem-symbolic-link.png" \
   -exec cp -v {} {}.bak \; \
   -exec convert {} -colorspace gray {} \; \
-  -exec convert {} \( -clone 0 -fill "#5a5a5a" -colorize 100 \) \( -clone 0,1 -compose difference -composite -separate +channel -evaluate-sequence max -auto-level \) -delete 1 -alpha off -compose over -compose copy_opacity -composite {} \;
+  -exec convert {} \( -clone 0 -fill "#5a5a5a" -colorize 100 \) \( -clone 0,1 -compose difference -composite -separate +channel -evaluate-sequence max -auto-level \) -delete 1 -alpha off -compose over -compose copy_opacity -composite {} \; \
+  -exec convert {} \( -clone 0 -fill "#000000" -colorize 100 \) \( -clone 0,1 -compose difference -composite -separate +channel -evaluate-sequence max -auto-level \) -delete 1 -alpha off -compose over -compose copy_opacity -composite {} \;
   ```  
   Обратно:
   ```bash
