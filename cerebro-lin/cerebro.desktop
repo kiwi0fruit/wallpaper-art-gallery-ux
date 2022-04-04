@@ -1,9 +1,8 @@
 #!/usr/bin/env xdg-open
-
 [Desktop Entry]
-Name=Cerebro
+Name=C
 Exec=/usr/bin/xdotool key ctrl+space
 Encoding=UTF-8
 Type=Application
-Icon=nm-tech-gprs
+Icon=goa-account-symbolic
 StartupWMClass=xdotool
