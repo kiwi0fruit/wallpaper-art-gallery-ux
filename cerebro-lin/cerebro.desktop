@@ -1,6 +1,6 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=C
+Name=ᶜ
 Exec=/usr/bin/xdotool key ctrl+space
 Encoding=UTF-8
 Type=Application
