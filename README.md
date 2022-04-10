@@ -93,7 +93,7 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
   ## worst case, reinstall icons
   sudo apt --reinstall install yaru-theme-icon
   ```  
-  Вы так же можете захотеть поменять цвет выделения ярлыков на рабочем столе после нажатия. Я скопировал три темы Yaru-Grey из [Yaru-Colors](https://github.com/Jannomag/Yaru-Colors) (они требуют наличия расширения [User Themes Extension](https://extensions.gnome.org/extension/19/user-themes/)). Потом поменял тему в Gnome Tweaks - стало лучше.
+  Вы так же можете захотеть поменять цвет выделения ярлыков на рабочем столе после нажатия. Я скопировал три темы Yaru-Grey в папку `~/.themes` из [Yaru-Colors](https://github.com/Jannomag/Yaru-Colors/tree/master/Themes) (они требуют наличия расширения [User Themes Extension](https://extensions.gnome.org/extension/19/user-themes/)). Потом поменял тему в Gnome Tweaks - стало лучше.
 * В **Android** все так же, только проще - достаточно поместить виджет строки поиска вверху рабочего стола (вверху опять же обычно будет расширенная размытая часть картины).
 Если совсем озаботиться, то можно поместить ярлык запуска окна поиска прямо на панель избранного (например, [Simple Search](https://f-droid.org/en/packages/de.tobiasbielefeld.searchbar/)). Цвет значков на панели избранного можно изменить установкой набора значков типа [этого](http://apps.samsung.com/theme/ProductDetail.as?appId=com.themeplicity.purplewinter.appiconpack)
 или изменением значков с помощью [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) ([вот этот значок](./images/search.png) может быть полезен - создавать ярлык нужно в режиме виджета).
