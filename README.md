@@ -95,7 +95,7 @@ How to set user experience to enjoy the favourite art on the desktop. Examples o
   ```  
   Вы так же можете захотеть поменять цвет выделения ярлыков на рабочем столе после нажатия. Я скопировал три темы Yaru-Grey в папку `~/.themes` из [Yaru-Colors](https://github.com/Jannomag/Yaru-Colors/tree/master/Themes):
   ```bash
-  git clone https://github.com/kiwi0fruit/Yaru-Colors --depth 1
+  git clone https://github.com/kiwi0fruit/Yaru-Colors --depth 12
   cd Yaru-Colors
   git reset --hard 86ee459e4edea20367f2d605004462f9a458d6d5
   ```
